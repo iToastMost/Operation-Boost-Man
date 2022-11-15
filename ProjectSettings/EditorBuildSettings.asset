@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Fly Over.unity
+    guid: 302897d765e2dd64bb3e3ea34a70c2b2
+  - enabled: 1
+    path: Assets/Scenes/Fly Through.unity
+    guid: 632765f96f8c90047be47c932ee29fd0
+  - enabled: 1
+    path: Assets/Scenes/Fly Through Hard.unity
+    guid: e7cdca40b253e074eb27c883899f0c7c
+  - enabled: 1
+    path: Assets/Scenes/Triple Fly Through.unity
+    guid: 2465ed703c05c774fb97382f5179ed30
+  - enabled: 1
+    path: Assets/Scenes/Tunnels.unity
+    guid: eef965a2341fc094ca7b8707c7bf3fac
+  - enabled: 1
+    path: Assets/Scenes/Crushers.unity
+    guid: 303ddc432ea951d49ad689e52ab09c08
+  m_configObjects: {}
